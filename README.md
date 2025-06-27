@@ -2,7 +2,7 @@
 
 > Because fake faces, voices, and videos shouldn't rewrite reality.
 
-![Methodology Flowchart](./assets/methodology_diagram.png)
+![Methodology Flowchart](cha.png)
 
 ## 🧠 Overview
 **TrueSight** is a unified deepfake detection framework that operates across **image**, **video**, and **audio** modalities. Designed to fight misinformation and protect digital integrity, it combines the strengths of **EfficientNet**, **Lite3D-ResNet**, and **ResNet-1D** fused via a **transformer-based cross-modal attention module**.
