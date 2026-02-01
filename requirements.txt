@@ -1,0 +1,13 @@
+tensorflow
+torch
+torchvision
+timm
+librosa
+kagglehub
+scikit-learn
+matplotlib
+pandas
+numpy
+opencv-python
+pillow
+soundfile
